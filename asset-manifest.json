@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grupodebate/static/css/main.e6c13ad2.css",
+    "main.js": "/grupodebate/static/js/main.0d9a80c8.js",
+    "index.html": "/grupodebate/index.html",
+    "main.e6c13ad2.css.map": "/grupodebate/static/css/main.e6c13ad2.css.map",
+    "main.0d9a80c8.js.map": "/grupodebate/static/js/main.0d9a80c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0d9a80c8.js"
+  ]
+}
